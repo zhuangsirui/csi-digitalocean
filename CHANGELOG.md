@@ -1,5 +1,8 @@
 ## unreleased
 
+* Add version information to logs
+  [[GH-65]](https://github.com/digitalocean/csi-digitalocean/pull/65)
+
 ## v0.1.4 - 2018.08.23
 
 * Add logs to mount operations
